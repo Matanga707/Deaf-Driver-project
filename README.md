@@ -1,7 +1,9 @@
 # Deaf-Driver-project               ARUDINO CODE
 
-int mic=3;
+int mic=3; 
+
 int motor=8;
+
 int led=9;
 void setup() {
  pinMode(mic,INPUT);
