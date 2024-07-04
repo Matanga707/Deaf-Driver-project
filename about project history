@@ -1,0 +1,17 @@
+Title: 	DESIGN AND DEVELOPMENT OF HORN - SOUND DETECTION SYSTEM FOR DEAF DRIVERS
+Authors: 	Jharia, Bhavana
+Keywords: 	ELECTRONICS AND COMPUTER ENGINEERING;HORN - SOUND DETECTION SYSTEM;DEAF DRIVERS;HEARING
+Issue Date: 	1998
+Abstract: 	Hearing gives us a sense of relatedness to the world, on a very primitive level. Deaf people do not have the sense of hearing for ordinary purpose of life and for such a person sensation through the skin is one of the effective method for receiving the acoustic signal through stimutation. Keeping in view the difficulties faced by the deaf drivers, it was thought necessary to design a system which would remove the constraints of driving by deaf persons. Accordingly the study was planned on the following lines : (a) To analyse different horn-sounds using "VAGHMI" and (b) Using the data so obtained for designing a horn sound detection system which would generate vibratory signals on the skin. To achieve the objectives of the present work, a single channel device was designed with a constant frequency output. The incoming signal is filtered, ampified and fed to a level detector where the detection level is adjusted by a control. The detector then adjusts the threshold level for signals and only when a signal goes above reference level it causes an oscillator to operate and through the output driver causes the Piezoelectric vibrator to vibrate. The Oscillator runs at around 250 Hz at which skin has maximum sensitivity. An LED is switched in on the output of the driver system as a visual indicator of the presence of sound simultaneously to indicate visually that the system is in operation. The complete system was tested on several deaf persons and was found quite satisfactory. It is expected that the equipment designed in this dissertation would help deaf persons to qualify for obtaining driving licence thereby enabling them to enjoy the benefits of automobiles like any other normal person in the society.
+URI: 	http://hdl.handle.net/123456789/9598
+Other Identifiers: 	M.Tech
+Research Supervisor/ Guide: 	Handa, S. C.
+Agarwal, R. P.
+metadata.dc.type: 	M.Tech Dessertation
+Appears in Collections:	MASTERS' THESES (E & C)
+
+
+
+
+
+LINK-----http://shodhbhagirathi.iitr.ac.in:8081/jspui/handle/123456789/9598
